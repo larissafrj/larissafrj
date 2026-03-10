@@ -18,3 +18,4 @@ Atualmente atuando no setor de *trading* de energia, automatizo *pipelines* de d
 
 ---
 📫 Por favor, envie um email para larissafreita@gmail.com para me encontrar.
+📫 **LinkedIn:** https://www.linkedin.com/in/larissa-de-freitas-9a5638104/
