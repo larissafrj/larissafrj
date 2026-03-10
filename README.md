@@ -14,3 +14,7 @@ Atualmente atuando no setor de *trading* de energia, automatizo *pipelines* de d
 * **Dados e Machine Learning:** Modelagem Preditiva, Aprendizado Supervisionado/Não Supervisionado, Análise de Séries Temporais
 * **Ferramentas e Fluxo de Trabalho:** Git/GitHub, Integração de APIs, Visualização de Dados, Automação
 * **Expertise de Domínio:** Modelos de Otimização, Análise de Sistemas Complexos, Previsão Estatística
+
+
+---
+📫 Por favor, envie um email para larissafreita@gmail.com para me encontrar.
