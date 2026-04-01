@@ -8,7 +8,7 @@ Atualmente atuando no setor de *trading* de energia, gerando análises  e automa
 
 ---
 
-### 🛠️ Arsenal Técnico
+### 🛠️ Skills
 
 * **Linguagens:** Python (Pandas, NumPy, Scikit-Learn, matplotlib), R, SQL (PostgreSQL), Shell Script
 * **Dados e Machine Learning:** Modelagem Preditiva, Aprendizado Supervisionado/Não Supervisionado, Análise de Séries Temporais
@@ -17,6 +17,6 @@ Atualmente atuando no setor de *trading* de energia, gerando análises  e automa
 
 
 ---
-📫 Por favor, envie um email para larissafreita@gmail.com para me encontrar.
+📫 **Contato** larissafreita@gmail.com 
 
 📫 **LinkedIn:** https://www.linkedin.com/in/larissa-de-freitas-9a5638104/
